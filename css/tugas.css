@@ -1,0 +1,213 @@
+body {
+	
+	color: #080808;
+}
+,h1,h2,h3 {
+	color: black;
+}
+
+.sp-layer {
+	color: rgba(8, 8, 8, 0.89);
+}
+#header {
+	background-color: #bdc3c7;
+}
+.brand {
+	color: #220901;
+}
+.setting {
+	padding-top: 8px;
+	background: transparent;
+}
+
+.section-heading-spacer1{
+	width: 200px;
+	border-top: 3px solid #333;
+}
+.intro-about {
+	padding-top: 267px;
+	font-size: 15px;
+	text-align: center;
+	color: rgb(255, 3, 3);
+}
+.service1 {
+	text-align: center;
+    padding-top: 21px;
+    padding-bottom: 24px;
+    overflow: hidden;
+}
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    margin-top: -22px;
+    border-top: 3px solid #333;
+}
+.coffe {
+	overflow: hidden;
+}
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+.intro-service {
+	background-color: #ecf0f1;
+	padding-bottom: 40px;
+    padding-top: 40px;
+}
+.content-service-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+.gallery {
+	text-align: center;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    text-decoration: none;
+}
+.gallery1 {
+    padding-bottom: 20px;
+}
+/*.gallery-home {
+	background-image: url(../img/baru.jpg) ;
+	background-size: cover;
+
+}*/
+.intro-gambar2 {
+	    background: rgba(158, 158, 158, 0.45);
+    width: 80%;
+    height: 80%;
+    left: 10%;
+    top: 10%;
+    position: absolute;
+    padding-top: 15%;
+    opacity: 0;
+    transition: all 0.6s;
+    text-align: center;
+}
+.intro-gambar:hover .intro-gambar2 {
+	opacity: 1;
+}
+.intro21 {
+	    background: rgba(121, 85, 72, 0.44);
+    width: 80%;
+    height: 80%;
+    left: 10%;
+    top: 10%;
+    position: absolute;
+    padding-top: 15%;
+    opacity: 0;
+    transition: all 0.6s;
+    text-align: center;
+}
+.intro2:hover .intro21 {
+	opacity: 1;
+}
+.intro31 {
+	  background: rgba(121, 85, 72, 0.61);
+    width: 80%;
+    height: 80%;
+    left: 10%;
+    top: 10%;
+    position: absolute;
+    padding-top: 15%;
+    opacity: 0;
+    transition: all 0.6s;
+    text-align: center;
+}
+.intro3:hover .intro31 {
+	opacity: 3;
+}
+.contact {
+	color: #ecf0f1;
+	padding: 0px 0px 50px 0px;
+}
+.contact1 {
+	text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    overflow: hidden;
+}
+.contact_socail ul {
+	list-style-type: none;
+}
+.contact_socail ul li {
+	display: inline-block;
+	padding: 5px 10px ;
+}
+.single_message_right_info ul li {
+	padding: 15px 0px;
+}
+.intro-contact {
+	padding: 10px 0px 20px 0px;
+}
+.button .btn {
+	color: #c0392b;
+    overflow: hidden;
+	border-radius: 25px;
+	padding: 0px 20px; 
+	font-size: 15px;
+}
+.selesai {
+	padding: 20px 0px;
+	text-align: center;
+	background-color: #bdc3c7;
+}
+.intro-pro {
+	    background: rgba(245, 245, 245, 0.87);
+    width: 80%;
+    height: 80%;
+    left: 10%;
+    top: 10%;
+    position: absolute;
+    padding-top: 15%;
+    opacity: 0;
+    transition: all 0.6s;
+}
+.intro-slow:hover .intro-pro {
+	opacity: 1;
+}
+
+.intro-control {
+	padding: 20px 0px;
+}
+.intro-slow {
+	padding: 10px 5px;
+}
+.separator {
+	 background: #333;
+    height: 2px;
+    width: 60px;
+    margin: 10px auto;
+}
+#edit:hover a {
+	background-color: #47D2E9;
+	padding: 3px 5px;
+	border-radius: 4px;
+}
+#edit a {
+	color: black;
+	text-decoration: none;
+}
+#edit {
+	background-color: transparent;
+	text-decoration: none;
+}
+.icon {
+	margin: -26px 0px 0px 0px;;
+}
+.parallax-window {
+    min-height: 750px;
+    background: transparent;
+    background-size: cover;
+}
+.parallax-window1 {
+    min-height: 500px;
+    background: transparent;
+    background-size: cover;
+}
+.parallax-window2 {
+	 min-height: 550px;
+    background: transparent;
+    background-size: cover;
+}
