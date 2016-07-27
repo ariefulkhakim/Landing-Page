@@ -211,3 +211,9 @@ body {
     background: transparent;
     background-size: cover;
 }
+@media only screen and (max-width: 1024px) {
+    .parallax-window, .parallax-window1, .parallax-window2 {
+        background-attachment: scroll;
+    }
+}
+
